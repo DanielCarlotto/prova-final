@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "eureka",
+      "path": "eureka"
+    },
+    {
+      "name": "zuul",
+      "path": "zuul"
+    },
+    {
+      "name": "venda-ms",
+      "path": "venda-ms"
+    },
+    {
+      "name": "produto-ms",
+      "path": "produto-ms"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
